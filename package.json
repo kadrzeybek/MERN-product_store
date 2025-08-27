@@ -1,0 +1,29 @@
+{
+  "name": "mern-product_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadrzeybek/MERN-product_store.git"
+  },
+  "keywords": [],
+  "author": "Kadir Zeybekoğlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadrzeybek/MERN-product_store/issues"
+  },
+  "homepage": "https://github.com/kadrzeybek/MERN-product_store#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
