@@ -14,11 +14,11 @@ This application provides a full CRUD system for managing products with a modern
 ## Screenshots
 |  Desktop Dark Home Page |  Desktop Light Home Page | Desktop Dark Create Page | Desktop Light Create Page |
 |-------------------|-------------------|-------------------|-------------------|
-| ![homePage_desktop_dark](./screenshots/homePage_desktop_dark.png) |![homePage_desktop_light](./screenshots/homePage_desktop_light.png) |![createPage_desktop_dark](./screenshots/homePage_desktop_dark.png) |![creatPage_desktop_light](./screenshots/homePage_desktop_light.png) |
+| ![homePage_desktop_dark](./screenShots/homePage_desktop_dark.png) |![homePage_desktop_light](./screenShots/homePage_desktop_light.png) |![createPage_desktop_dark](./screenShots/homePage_desktop_dark.png) |![creatPage_desktop_light](./screenShots/homePage_desktop_light.png) |
 
 |  Mobil Dark Home Page |  Mobil Light Home Page | Mobil Dark Create Page | Mobil Light Create Page |
 |-------------------|-------------------|-------------------|-------------------|
-| ![homePage_mobil_dark](./screenshots/homePage_mobil_dark.png) |![homePage_mobil_light](./screenshots/homePage_mobil_light.png) |![createPage_mobil_dark](./screenshots/homePage_mobil_dark.png) |![creatPage_mobil_light](./screenshots/homePage_mobil_light.png) |
+| ![homePage_mobil_dark](./screenShots/homePage_mobil_dark.png) |![homePage_mobil_light](./screenShots/homePage_mobil_light.png) |![createPage_mobil_dark](./screenShots/homePage_mobil_dark.png) |![creatPage_mobil_light](./screenShots/homePage_mobil_light.png) |
 
 ---
 ## Features
