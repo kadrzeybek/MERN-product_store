@@ -19,14 +19,14 @@ const Navbar = () => {
         <Text
           bgGradient="linear(to-l, orange.200, purple.300)"
           bgClip="text"
-          fontSize="6xl"
+          fontSize={ {sm: "3xl", md: "5xl", xl: "6xl"}}
           fontWeight="extrabold"
         >
           <Link to={'/'}>Product Store 🛒</Link>
         </Text>
         <HStack spacing={2} alignItems={'center'}>
           <Button><Link to={"/"}>Home</Link></Button>
-          <Button><Link to={"/create"}>Create New</Link></Button>
+          <Button><Link to={"/create"}>Create</Link></Button>
           <Button onClick={toggleColorMode}>
             {colorMode === 'light' ? '🌙' : '☀️'}
           </Button>
