@@ -56,7 +56,14 @@ This application provides a full CRUD system for managing products with a modern
     ```
     
 3. Install dependencies in the root directory
-    `npm run build` --> this code will downloads all dependencies and creates a dist doc for running frontend and backend together
+    `npm run build` --> this code will downloads all dependencies and creates a dist doc for running frontend and backend together for deployment
    
-4. Start The Server in the root directory
+4. Start The Server in the root directory --> this code will run backend server
     `npm run start`
+
+5. Open a new terminal, navigate to the frontend directory, and run the following command to start the frontend in development mode:
+    `cd frontend`
+    `npm run dev`
+
+6. You can now access the project in your browser at:
+     `http://localhost:5173`
